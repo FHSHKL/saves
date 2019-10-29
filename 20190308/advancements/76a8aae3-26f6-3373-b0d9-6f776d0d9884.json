@@ -107,15 +107,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stonebrick": {
-    "criteria": {
-      "has_mossy_cobblestone": "2019-10-28 19:45:18 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2019-10-28 19:17:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stonebrick": {
+    "criteria": {
+      "has_mossy_cobblestone": "2019-10-28 19:45:18 +0800"
     },
     "done": true
   },
@@ -972,6 +972,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2019-10-28 15:53:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2019-10-29 13:05:03 +0800"
     },
     "done": true
   },
