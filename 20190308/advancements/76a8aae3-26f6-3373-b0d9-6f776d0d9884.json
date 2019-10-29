@@ -786,6 +786,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_pigman": "2019-10-29 14:46:27 +0800",
+      "zombie_villager": "2019-10-29 21:23:21 +0800",
       "skeleton": "2019-10-28 15:30:29 +0800",
       "zombie": "2019-10-28 15:14:16 +0800",
       "spider": "2019-10-28 16:14:28 +0800",
@@ -1282,6 +1283,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2019-10-28 18:49:24 +0800",
+      "extreme_hills_with_trees": "2019-10-29 21:49:38 +0800",
       "plains": "2019-10-24 19:39:06 +0800",
       "savanna": "2019-10-28 19:49:32 +0800",
       "jungle_hills": "2019-10-28 19:40:18 +0800",
