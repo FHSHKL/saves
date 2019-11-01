@@ -1,0 +1,17 @@
+{
+"display":{
+"hidden":true,
+"description":"Play for 30 minutes",
+"title":{
+"text":"30 minutes... So far so good?"},
+"icon":{
+"item":"iron_ore",
+"data":0}},
+"criteria":{"":{"trigger":"minecraft:impossible"}},
+"rewards":{},
+"requirements":[[""]],
+"filename":3,
+"parent-count":2,
+"parent-type":"child",
+"parent":"parkourspiral2:20min"
+}

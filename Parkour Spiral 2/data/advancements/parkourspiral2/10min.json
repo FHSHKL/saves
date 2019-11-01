@@ -1,0 +1,17 @@
+{
+"display":{
+"hidden":true,
+"description":"Play for 10 minutes",
+"title":{
+"text":"10 Minutes in!"},
+"icon":{
+"item":"coal_ore",
+"data":0}},
+"criteria":{"":{"trigger":"minecraft:impossible"}},
+"rewards":{},
+"requirements":[[""]],
+"filename":2,
+"parent-count":1,
+"parent-type":"child",
+"parent":"parkourspiral2:root"
+}

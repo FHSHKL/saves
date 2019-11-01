@@ -1,0 +1,18 @@
+{
+"display":{
+"hidden":true,
+"description":{
+"text":"Fall back to the nether"},
+"title":{
+"text":"Bye!"},
+"icon":{
+"item":"feather",
+"data":0}},
+"criteria":{"":{"trigger":"minecraft:impossible"}},
+"rewards":{},
+"requirements":[[""]],
+"filename":9,
+"parent-count":1,
+"parent-type":"child",
+"parent":"parkourspiral2:root"
+}

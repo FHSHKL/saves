@@ -1,0 +1,80 @@
+{
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "entered_water": "2017-10-03 17:31:44 +0200"
+    },
+    "done": true
+  },
+  "parkourspiral2:elytra": {
+    "criteria": {
+      "": "2017-10-03 17:32:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "entered_water": "2017-10-03 17:31:44 +0200"
+    },
+    "done": true
+  },
+  "parkourspiral2:root": {
+    "criteria": {
+      "tick": "2017-10-03 17:20:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2017-10-03 17:21:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "entered_water": "2017-10-03 17:31:44 +0200"
+    },
+    "done": true
+  },
+  "parkourspiral2:escape": {
+    "criteria": {
+      "": "2017-10-03 17:30:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stonebrick": {
+    "criteria": {
+      "has_stone": "2017-10-03 17:21:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2017-10-03 17:21:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2017-10-03 17:21:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/boat": {
+    "criteria": {
+      "entered_water": "2017-10-03 17:31:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "entered_water": "2017-10-03 17:31:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "entered_water": "2017-10-03 17:31:44 +0200"
+    },
+    "done": true
+  }
+}

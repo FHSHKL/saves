@@ -1,0 +1,18 @@
+{
+"display":{
+"hidden":true,
+"description":{
+"text":"Enter the end"},
+"title":{
+"text":"The end is near"},
+"icon":{
+"item":"end_stone","data":0}},
+"criteria":{
+"":{"trigger":"minecraft:impossible"}},
+"rewards":{},
+"requirements":[[""]],
+"filename":6,
+"parent-count":5,
+"parent-type":"child",
+"parent":"parkourspiral2:elevator"
+}

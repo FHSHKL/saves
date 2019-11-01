@@ -1,0 +1,17 @@
+{
+"display":{
+"hidden":true,
+"description":"Play for 90 minutes",
+"title":{
+"text":"90 minutes already... Are you okay?"},
+"icon":{
+"item":"emerald_ore",
+"data":0}},
+"criteria":{"":{"trigger":"minecraft:impossible"}},
+"rewards":{},
+"requirements":[[""]],
+"filename":4,
+"parent-count":3,
+"parent-type":"child",
+"parent":"parkourspiral2:60min"
+}

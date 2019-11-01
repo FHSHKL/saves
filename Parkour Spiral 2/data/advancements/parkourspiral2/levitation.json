@@ -1,0 +1,19 @@
+{
+"display":{
+"hidden":true,
+"description":{
+"text":"Don't push your luck, though!",
+"italic":false},
+"title":{
+"text":"I believe I can fly!"},
+"icon":{"item":"lingering_potion",
+"data":0}},
+"criteria":{
+"":{"trigger":"minecraft:impossible"}},
+"rewards":{},
+"requirements":[[""]],
+"filename":7,
+"parent-count":6,
+"parent-type":"child",
+"parent":"parkourspiral2:enterend"
+}

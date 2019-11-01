@@ -1,0 +1,19 @@
+{
+"display":{
+"hidden":true,
+"description":{
+"text":"Why parkour when there is an elevator?"},
+"title":{
+"text":"Taking the elevator"},
+"icon":{
+"item":"wooden_button",
+"data":0}},
+"criteria":{
+"":{"trigger":"minecraft:impossible"}},
+"rewards":{},
+"requirements":[[""]],
+"filename":5,
+"parent-count":4,
+"parent-type":"child",
+"parent":"parkourspiral2:down"
+}
