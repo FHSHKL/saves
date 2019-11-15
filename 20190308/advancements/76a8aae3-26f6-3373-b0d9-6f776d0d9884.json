@@ -1296,6 +1296,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2019-10-28 18:49:24 +0800",
+      "birch_forest": "2019-11-14 20:24:57 +0800",
       "extreme_hills_with_trees": "2019-10-29 21:49:38 +0800",
       "plains": "2019-10-24 19:39:06 +0800",
       "savanna": "2019-10-28 19:49:32 +0800",
